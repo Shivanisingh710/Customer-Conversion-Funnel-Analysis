@@ -1,5 +1,4 @@
 # Customer-Conversion-Funnel-Analysis
-# Customer Journey & Revenue Analytics
 
 ## Overview
 
